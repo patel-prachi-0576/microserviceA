@@ -37,3 +37,4 @@ for review in reviews:
 # Supported commands only include "get_all". Any other message will get the result "INVALID_COMMAND"
 
 
+![uml screenshot](https://github.com/user-attachments/assets/29a7e656-2d10-46ec-99c4-6f329a8f8e2c)
