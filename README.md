@@ -48,6 +48,6 @@ for review in reviews:
 Supported commands only include "get_all". Any other message will get the result "INVALID_COMMAND"
 ## UML Diagram
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+(https://drive.google.com/file/d/1zzvgCYKBhQimFWPnOsYvBwLm033NKUkW/view?usp=sharing)
 
 
