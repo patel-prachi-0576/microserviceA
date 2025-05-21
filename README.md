@@ -53,7 +53,6 @@ Supported commands only include "get_all". Any other message will get the result
 (https://drive.google.com/file/d/1zzvgCYKBhQimFWPnOsYvBwLm033NKUkW/view?usp=sharing)
 
 ## Mitigation Plan
-MITIGATION PLAN
 
 1.	I implemented microservice A for Leonardo.
 
