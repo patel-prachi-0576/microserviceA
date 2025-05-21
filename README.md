@@ -68,7 +68,6 @@ Supported commands only include "get_all". Any other message will get the result
 - This microservice returns user reviews over a ZeroMQ socket
 - It loads reviews from a local reviews.json file. The JSON file must be in the same directory as the server file.
 - Make sure that any new reviews added are in the format of a dictionary in the JSON file. An example is shown in the README file on Github.
-- Python must be installed
 - The microservice will start and bind to tcp://*:5555
 
 
